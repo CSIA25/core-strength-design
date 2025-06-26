@@ -83,6 +83,6 @@
   }
   
   .product-card {
-    @apply glass-card p-6 group hover:bg-charcoal/40 transition-all duration-500;
+    @apply glass-card p-6 hover:bg-charcoal/40 transition-all duration-500;
   }
 }
